@@ -6,6 +6,10 @@
   "keywords": ["roblox-ts", "wait", "fastwait", "roblox", "utility"],
   "author": "ReturnedTrue",
   "license": "MIT",
+  "readme": "README.md",
+  "bugs": {
+    "url": "https://github.com/ReturnedTrue/Thread-ts/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ReturnedTrue/Thread-ts"
