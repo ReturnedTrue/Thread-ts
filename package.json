@@ -1,0 +1,17 @@
+{
+  "name": "@rbxts/thread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/init.lua",
+  "keywords": [],
+  "author": "ReturnedTrue",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "types": "src/index.d.ts",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^1.0.0-beta.16.1",
+    "@rbxts/types": "^1.0.456"
+  }
+}
