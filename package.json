@@ -1,11 +1,16 @@
 {
   "name": "@rbxts/thread",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.0-beta",
+  "description": "TypeScript port of CloneTrooper1019's Thread.lua",
   "main": "src/init.lua",
-  "keywords": [],
+  "keywords": ["roblox-ts", "wait", "fastwait", "roblox", "utility"],
   "author": "ReturnedTrue",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReturnedTrue/Thread-ts"
+  },
+  "homepage": "https://gist.github.com/CloneTrooper1019/538f0ab2541ef98912a2694dd8d274e7",
   "publishConfig": {
     "access": "public"
   },
@@ -13,5 +18,10 @@
   "devDependencies": {
     "@rbxts/compiler-types": "^1.0.0-beta.16.1",
     "@rbxts/types": "^1.0.456"
-  }
+  },
+  "files": [
+    "src",
+    "README.md",
+    "package.json"
+  ]
 }

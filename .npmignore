@@ -1,7 +1,0 @@
-test/
-out/
-include/
-node_modules/
-.vscode/
-.gitignore
-tsconfig.json
